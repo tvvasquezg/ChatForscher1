@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620111781292",
+    "firebase_url": "https://chatforscher.firebaseio.com",
+    "project_id": "chatforscher",
+    "storage_bucket": "chatforscher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620111781292:android:1365d6eff3db94f033ee09",
+        "android_client_info": {
+          "package_name": "com.Tania.chatforscher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620111781292-uk328hbhp3pmukvm1bost9c6314el4v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV0HCecCd3fBDZlBA1EdTr2JQBMCa4r2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620111781292-uk328hbhp3pmukvm1bost9c6314el4v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
